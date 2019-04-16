@@ -1,5 +1,5 @@
 # Transpose of matrix
-This program helps you to calculate the transpose matrox of a matrixof size n*n . 
+This program helps you to calculate the transpose matrox of a matrixof size n*n. 
 This program is written in c language using proper comments so that any one can understand and can get your point very easily .
 ![](https://github.com/ASTHA193/transposeofmatrix/blob/master/transpose.png)
 <br />
